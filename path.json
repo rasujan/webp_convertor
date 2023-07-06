@@ -1,0 +1,50 @@
+[
+    {
+        "source": "images/hot-air-balloon.png",
+        "destination": "images/hot-air-balloon.webp"
+    },
+    {
+        "source": "images/front_end_frameworks_experience_linechart.png",
+        "destination": "images/front_end_frameworks_experience_linechart.webp"
+    },
+    {
+        "source": "images/fold2/stsci-01gfnn3pwjmy4rqxkz585bc4qh.png",
+        "destination": "images/fold2/stsci-01gfnn3pwjmy4rqxkz585bc4qh.webp"
+    },
+    {
+        "source": "IMG_20230128_213409_851.jpg",
+        "destination": "IMG_20230128_213409_851.webp"
+    },
+    {
+        "source": "images/IMG_20230128_213409_851.jpg",
+        "destination": "images/IMG_20230128_213409_851.webp"
+    },
+    {
+        "source": "images/friends-desktop-group-photo-stz5e4kmavncfykk.jpg",
+        "destination": "images/friends-desktop-group-photo-stz5e4kmavncfykk.webp"
+    },
+    {
+        "source": "images/fold2/pillars_of_creation.jpg",
+        "destination": "images/fold2/pillars_of_creation.webp"
+    },
+    {
+        "source": "images/fold2/i-made-a-4k-ultrawide-wallpaper-of-pillars-of-creation-v0-48zd8xe6k49a1.jpg",
+        "destination": "images/fold2/i-made-a-4k-ultrawide-wallpaper-of-pillars-of-creation-v0-48zd8xe6k49a1.webp"
+    },
+    {
+        "source": "images/fold2/jwst-miris-image-of-pillars-of-creation-v0-hn8fed39ilw91.jpg",
+        "destination": "images/fold2/jwst-miris-image-of-pillars-of-creation-v0-hn8fed39ilw91.webp"
+    },
+    {
+        "source": "images/fold2/d050dcbb0822ffc146771aef108fbe16.jpg",
+        "destination": "images/fold2/d050dcbb0822ffc146771aef108fbe16.webp"
+    },
+    {
+        "source": "images/_.jpeg",
+        "destination": "images/_.webp"
+    },
+    {
+        "source": "images/fold2/rasujan-gg1.jpeg",
+        "destination": "images/fold2/rasujan-gg1.webp"
+    }
+]
