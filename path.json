@@ -4,20 +4,8 @@
         "destination": "images/hot-air-balloon.webp"
     },
     {
-        "source": "images/front_end_frameworks_experience_linechart.png",
-        "destination": "images/front_end_frameworks_experience_linechart.webp"
-    },
-    {
         "source": "images/fold2/stsci-01gfnn3pwjmy4rqxkz585bc4qh.png",
         "destination": "images/fold2/stsci-01gfnn3pwjmy4rqxkz585bc4qh.webp"
-    },
-    {
-        "source": "IMG_20230128_213409_851.jpg",
-        "destination": "IMG_20230128_213409_851.webp"
-    },
-    {
-        "source": "images/IMG_20230128_213409_851.jpg",
-        "destination": "images/IMG_20230128_213409_851.webp"
     },
     {
         "source": "images/friends-desktop-group-photo-stz5e4kmavncfykk.jpg",
@@ -42,9 +30,5 @@
     {
         "source": "images/_.jpeg",
         "destination": "images/_.webp"
-    },
-    {
-        "source": "images/fold2/rasujan-gg1.jpeg",
-        "destination": "images/fold2/rasujan-gg1.webp"
     }
 ]

@@ -51,8 +51,12 @@ def convert_to_webp_with_compression(source):
     """
     destination = source.with_suffix(".webp")
     image = Image.open(source)  # Open image
+
+    # Compress only if file size is greater than 300KB
+    q = 50 if (image.width > 2000 or image.height > 2000) else 80
+
     image.save(
-        destination, format="webp", optimize=True, quality=50
+        destination, format="webp", optimize=True, quality=q
     )  # Convert image to webp with optimization
     pathList.append(pathListClass(str(source), str(destination)))
 
